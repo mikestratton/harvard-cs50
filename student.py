@@ -22,6 +22,5 @@ def get_student():
     return Student(name, house)
 
 
-
 if __name__ == "__main__":
     main()
